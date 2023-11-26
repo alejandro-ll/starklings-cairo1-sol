@@ -1,0 +1,11 @@
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\colored-4c5519c643b8850f.rmeta: C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs
+
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\libcolored-4c5519c643b8850f.rlib: C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs
+
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\colored-4c5519c643b8850f.d: C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs
+
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs:
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs:
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs:
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs:
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs:

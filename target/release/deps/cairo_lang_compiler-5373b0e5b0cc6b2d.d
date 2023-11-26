@@ -1,0 +1,10 @@
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\cairo_lang_compiler-5373b0e5b0cc6b2d.rmeta: C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\lib.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\db.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\diagnostics.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\project.rs
+
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\libcairo_lang_compiler-5373b0e5b0cc6b2d.rlib: C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\lib.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\db.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\diagnostics.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\project.rs
+
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\cairo_lang_compiler-5373b0e5b0cc6b2d.d: C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\lib.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\db.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\diagnostics.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\project.rs
+
+C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\lib.rs:
+C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\db.rs:
+C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\diagnostics.rs:
+C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-compiler\src\project.rs:

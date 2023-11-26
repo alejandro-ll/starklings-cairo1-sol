@@ -1,0 +1,12 @@
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\cairo_lang_syntax_codegen-1ce4400f3454ad62.rmeta: C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\lib.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\cairo_spec.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\generator.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\spec.rs
+
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\libcairo_lang_syntax_codegen-1ce4400f3454ad62.rlib: C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\lib.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\cairo_spec.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\generator.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\spec.rs
+
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\cairo_lang_syntax_codegen-1ce4400f3454ad62.d: C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\lib.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\cairo_spec.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\generator.rs C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\spec.rs
+
+C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\lib.rs:
+C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\cairo_spec.rs:
+C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\generator.rs:
+C:\Users\paraq\.cargo\git\checkouts\cairo-f086c7e6d4098a68\ad5570f\crates\cairo-lang-syntax-codegen\src\spec.rs:
+
+# env-dep:CARGO_MANIFEST_DIR=C:\\Users\\paraq\\.cargo\\git\\checkouts\\cairo-f086c7e6d4098a68\\ad5570f\\crates\\cairo-lang-syntax-codegen

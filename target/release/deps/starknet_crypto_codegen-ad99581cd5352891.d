@@ -1,0 +1,8 @@
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\starknet_crypto_codegen-ad99581cd5352891.dll: C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\lib.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\pedersen.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\poseidon\mod.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\poseidon\params.rs
+
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\starknet_crypto_codegen-ad99581cd5352891.d: C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\lib.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\pedersen.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\poseidon\mod.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\poseidon\params.rs
+
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\lib.rs:
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\pedersen.rs:
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\poseidon\mod.rs:
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\starknet-crypto-codegen-0.3.2\src\poseidon\params.rs:

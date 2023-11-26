@@ -1,0 +1,10 @@
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\anstyle_wincon-98c44adebbdb3818.rmeta: C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\lib.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\ansi.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\stream.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\windows.rs
+
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\libanstyle_wincon-98c44adebbdb3818.rlib: C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\lib.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\ansi.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\stream.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\windows.rs
+
+C:\Users\paraq\OneDrive\Documentos\Programacion estudio\starklings-cairo1-sol\target\release\deps\anstyle_wincon-98c44adebbdb3818.d: C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\lib.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\ansi.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\stream.rs C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\windows.rs
+
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\lib.rs:
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\ansi.rs:
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\stream.rs:
+C:\Users\paraq\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.1\src\windows.rs:
